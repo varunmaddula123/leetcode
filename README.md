@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunmaddula123/leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/varunmaddula123/leetcode/tree/master/0881-boats-to-save-people) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/varunmaddula123/leetcode/tree/master/0881-boats-to-save-people) |
