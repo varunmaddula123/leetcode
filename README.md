@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/varunmaddula123/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/varunmaddula123/leetcode/tree/master/0704-binary-search) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/varunmaddula123/leetcode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
@@ -46,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunmaddula123/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varunmaddula123/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/varunmaddula123/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/varunmaddula123/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
