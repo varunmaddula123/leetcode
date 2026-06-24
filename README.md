@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varunmaddula123/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunmaddula123/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varunmaddula123/leetcode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunmaddula123/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varunmaddula123/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
