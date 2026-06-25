@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varunmaddula123/leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunmaddula123/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varunmaddula123/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/varunmaddula123/leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/varunmaddula123/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
