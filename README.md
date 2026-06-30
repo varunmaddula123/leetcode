@@ -86,15 +86,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
