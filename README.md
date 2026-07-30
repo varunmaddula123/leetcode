@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/varunmaddula123/leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunmaddula123/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varunmaddula123/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/varunmaddula123/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varunmaddula123/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varunmaddula123/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -122,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
