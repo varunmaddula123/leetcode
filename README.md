@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varunmaddula123/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varunmaddula123/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
