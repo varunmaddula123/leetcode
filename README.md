@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/varunmaddula123/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/varunmaddula123/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varunmaddula123/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varunmaddula123/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
