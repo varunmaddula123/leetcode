@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varunmaddula123/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/varunmaddula123/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/varunmaddula123/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varunmaddula123/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/varunmaddula123/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/varunmaddula123/leetcode/tree/master/0118-pascals-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/varunmaddula123/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varunmaddula123/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/varunmaddula123/leetcode/tree/master/1143-longest-common-subsequence) |
