@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/varunmaddula123/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varunmaddula123/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/varunmaddula123/leetcode/tree/master/0179-largest-number) |
+| [0322-coin-change](https://github.com/varunmaddula123/leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunmaddula123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/varunmaddula123/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/varunmaddula123/leetcode/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/varunmaddula123/leetcode/tree/master/0322-coin-change) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/varunmaddula123/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/varunmaddula123/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varunmaddula123/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/varunmaddula123/leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/varunmaddula123/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varunmaddula123/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/varunmaddula123/leetcode/tree/master/1143-longest-common-subsequence) |
