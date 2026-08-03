@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varunmaddula123/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/varunmaddula123/leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/varunmaddula123/leetcode/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/varunmaddula123/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/varunmaddula123/leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/varunmaddula123/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/varunmaddula123/leetcode/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/varunmaddula123/leetcode/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/varunmaddula123/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/varunmaddula123/leetcode/tree/master/0174-dungeon-game) |
+| [0994-rotting-oranges](https://github.com/varunmaddula123/leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
