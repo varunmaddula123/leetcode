@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/varunmaddula123/leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunmaddula123/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/varunmaddula123/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/varunmaddula123/leetcode/tree/master/0310-minimum-height-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/varunmaddula123/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/varunmaddula123/leetcode/tree/master/0733-flood-fill) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/varunmaddula123/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/varunmaddula123/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/varunmaddula123/leetcode/tree/master/0112-path-sum) |
+| [0310-minimum-height-trees](https://github.com/varunmaddula123/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/varunmaddula123/leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/varunmaddula123/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/varunmaddula123/leetcode/tree/master/0994-rotting-oranges) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/varunmaddula123/leetcode/tree/master/0310-minimum-height-trees) |
 | [0997-find-the-town-judge](https://github.com/varunmaddula123/leetcode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/varunmaddula123/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/varunmaddula123/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/varunmaddula123/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/varunmaddula123/leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
